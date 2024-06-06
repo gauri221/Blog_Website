@@ -1,0 +1,9 @@
+"node_modules/* text eol=lf" 
+# Handle all files in node_modules with LF endings
+node_modules/* text eol=lf
+
+# Handle other common file types
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.md text eol=lf
